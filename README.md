@@ -7,7 +7,7 @@ git init
 git status
 # creamos un archivo nuevo y después
 git add .
-# hasta aca NO se guardaron los cambios, para hacerlo creamos uncommit
+# hasta aca NO se guardaron los cambios, para hacerlo creamos un commit
 git commit -m”IMPORTANTE: aca va la descripción del commit”
 # hicimos algún commit más y revisamos el historial de commits con
 git log
